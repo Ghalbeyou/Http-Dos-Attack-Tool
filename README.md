@@ -1,5 +1,5 @@
 # Dos HTTP attacker
-![1](https://img.shields.io/github/downloads/Ghalbeyou/Http-Dos-Attack-Tool/0.1/total?label=download)
+![1](https://img.shields.io/github/downloads/Ghalbeyou/Http-Dos-Attack-Tool/total?label=download)
 ## Recent changes
 - Added fast mode
 - Better intro
